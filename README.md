@@ -1,1 +1,3 @@
 # JanGait
+
+# USE MATLAB file_int for RR21 POSE EDITOR INTEGRATION
